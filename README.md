@@ -1,9 +1,6 @@
 # CycleGAN-Pytorch
 Minimum Implementation of CycleGAN in PyTorch
 
-(This project is for course CE7454 Deep Learning for Data Science @ NTU Singapore)
-
-Target: to create wintery images for Singapore city view and Nanyang Technological University campus. 
 
 Method: CycleGAN (https://arxiv.org/abs/1703.10593)
 
